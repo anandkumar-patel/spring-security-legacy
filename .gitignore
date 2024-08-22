@@ -1,0 +1,11 @@
+spring-security-basic/.gitignore
+spring-security-basic/.mvn/
+spring-security-jdbc/.gitignore
+spring-security-jdbc/.mvn/
+spring-security-jpa/.gitignore
+spring-security-jpa/.mvn/
+spring-security-jwt/.gitignore
+spring-security-jwt/.mvn/
+spring-security-key-secret/.gitignore
+spring-security-key-secret/.mvn/
+
